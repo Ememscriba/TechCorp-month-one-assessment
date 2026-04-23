@@ -1,8 +1,0 @@
-region                = "us-east-1"
-bastion_instance_type = "t3.micro"
-web_instance_type     = "t3.micro"
-db_instance_type      = "t3.small"
-key_pair_name         = "techcorp-key"
-my_ip                 = "41.58.204.128/32"
-admin_username        = "techadmin"
-admin_password        = "TechCorp2025!"
